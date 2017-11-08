@@ -11,7 +11,7 @@ import javax.persistence.Table;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
 
-
+//THis is model class OR POJO
 
 @Entity
 @Table(name="CONTACTS")
