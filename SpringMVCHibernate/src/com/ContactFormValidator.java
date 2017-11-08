@@ -7,7 +7,7 @@ import org.springframework.validation.Validator;
 
 
 /**
- * @author Harit
+ * @author Arpit Patel
  *
  */
 @Component("contactFormValidator")
