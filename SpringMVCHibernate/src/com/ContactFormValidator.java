@@ -8,6 +8,8 @@ import org.springframework.validation.Validator;
 
 /**
  * @author Arpit Patel
+ * 
+ * This is Validator class.
  *
  */
 @Component("contactFormValidator")
